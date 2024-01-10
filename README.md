@@ -15,6 +15,10 @@ Essas dags de demonstração podem ser desabilitadas, para uma melhor visualiza�
 
 <img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Ligando_Desligando_Dag.png">
 
+### Visualizando uma dag
+
+<img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Selecionar%20Dag.png">
+
 
 
 
