@@ -31,6 +31,16 @@ Perceba que a dag possui 5 tasks e 1 execução.
 
 <img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Tasks.png">
 
+Visualizando as tasks da Dag
+
+<img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Tasks_Da_Dag.png">
+
+Visualizando as tasks em modo grafico.
+
+<img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Tasks_Modo_Grafico.png">
+
+
+
 
 
 
