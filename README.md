@@ -1,6 +1,6 @@
 # Conhecendo Airflow
 
-### Interface gráfica do Airflow
+### Conehecendo a UI / Interface gráfica do Airflow
 
 <img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Tela_Airflow.png">
 
@@ -18,6 +18,18 @@ Essas dags de demonstração podem ser desabilitadas, para uma melhor visualiza�
 ### Visualizando uma dag
 
 <img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Selecionar%20Dag.png">
+
+### Grid, Graph e Calendar
+
+Vamos utilizar para análise a dag: example_branch_Operator
+
+<img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Exemplo_branch_Oper.png">
+
+Para isso vamos habilitar a dag e aguardar por alguns segundos o retorno da execução.
+
+Perceba que a dag possui 5 tasks e 1 execução.
+
+<img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Tasks.png">
 
 
 
