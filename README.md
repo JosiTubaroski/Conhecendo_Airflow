@@ -39,6 +39,9 @@ Visualizando as tasks em modo grafico.
 
 <img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Tasks_Modo_Grafico.png">
 
+Calendar
+
+<img src="https://github.com/JosiTubaroski/Conhecendo_Airflow/blob/main/img/Calendar.png">
 
 
 
